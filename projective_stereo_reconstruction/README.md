@@ -1,8 +1,7 @@
-# projective stereo reconstruction
-Implement projective stereo reconstruction, run the Loop and Zhang algorithm and
-calculate the disparity map of the given left and right image.
+# Projective stereo reconstruction
+Implement projective stereo reconstruction, run the Loop and Zhang algorithm and calculate the disparity map of the given left and right image.
 
-# reference
+# Reference
 1. Install OpenCV on Ubuntu or Debian. URL https://milq.github.io/install-opencv-ubuntu-debian/.
 2. Richard Hartley and Andrew Zisserman. Multiple view geometry in computer vision. Cambridge university press, 2003.
 3. Alejandro Garc´ıa Montoro. Image rectification. https://github.com/agarciamontoro/image-rectification.

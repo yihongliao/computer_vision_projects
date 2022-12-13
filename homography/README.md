@@ -1,4 +1,4 @@
-# calculate homography
+# Calculate homography
 Find the homographies by using the point-to-point correspondence, two-steps method and one-steps method and apply the homographies to the distorted images.
 
 # Reference
